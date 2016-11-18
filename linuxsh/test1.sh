@@ -1,0 +1,3 @@
+date
+cd
+ls
